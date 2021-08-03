@@ -3,7 +3,7 @@
  Show
 ola mundo
 ola mundo
-Vamos finalmento finalizar esse
+Vamos finalmento finalizar essa ideia  💡
 
 ## Programação
 
