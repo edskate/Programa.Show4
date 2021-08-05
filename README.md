@@ -9,4 +9,13 @@ Vamos finalmento finalizar essa ideia  💡
 
 ## Finalizada
 
-## Criando Um senario de Show
+
+## Uma tabela readme.md
+
+
+## Tabela Readme.md📑
+
+|   Bondia   |  boa noite     |  boa tarde           |
+|:---|:---:  |  ------: | 
+| world      | sol     |      |        heart         | 
+|       |    |         |      |        work          |
