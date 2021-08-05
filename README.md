@@ -1,16 +1,16 @@
 # Programa.Show
 
- Show
-ola mundo
-ola mundo
-Vamos finalmento finalizar essa ideia  💡
+<h1></h1>
+ + Show
 
-## Programação
++ Vamos finalmento finalizar essa ideia  💡
 
-## Finalizada
+* Programação
+
+* Finalizada
 
 
-## Uma tabela readme.md
+* Uma tabela readme.md
 
 
 ## Tabela Readme.md📑
@@ -19,3 +19,22 @@ Vamos finalmento finalizar essa ideia  💡
 |:---|:---:  |  ------: | 
 | world      | sol     |      |        heart         | 
 |       |    |         |      |        work          |
+
+## technologies Used:
+
+<table>
+ <tr>
+  <td>HTML</td>
+   <td>CSS3</td>
+   <td>Div</td>
+   <td>BOX-SHADOW</td>
+ </tr>
+ </tabel>
+<table>
+ <tr>
+  <td>text-shadow</td>
+   <td>readme.md</td>
+   <td>background-color</td>
+   <td>text-align</td>
+ </tr>
+ </tabel>
