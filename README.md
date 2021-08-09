@@ -18,7 +18,7 @@
 
 |   Bondia   |  boa noite     |  boa tarde           |
 |:---|:---:  |  ------: | 
-| world      | sol     |      |        heart         | 
+| world      | World     |      |       World         | 
 |       |    |         |      |        work          |
 
 ## technologies Used:
